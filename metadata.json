@@ -1,0 +1,6 @@
+{
+  "name": "日本語クラス - Kuis Interaktif Minna no Nihongo (Bab 1–50)",
+  "description": "Aplikasi kuis interaktif bahasa Jepang modern untuk materi Minna no Nihongo Bab 1-50 lengkap dengan timer 10 menit, evaluasi pembahasan soal, dan pelaporan hasil WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
