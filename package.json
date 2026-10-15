@@ -1,7 +1,7 @@
 {
-  "name": "react-example",
-  "private": true,
-  "version": "0.0.0",
+  "name": "kuis-kotoba-minna-no-nihongo",
+  "description": "Aplikasi kuis interaktif kosakata Minna no Nihongo Bab 1-50 lengkap (2.910 kosakata) dengan pelafalan suara dan pelaporan hasil WhatsApp",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
